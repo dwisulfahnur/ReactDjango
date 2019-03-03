@@ -1,0 +1,14 @@
+{% load render_bundle from webpack_loader %}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>React with Django </title>
+</head>
+
+<body>
+    <div id="mainApp"></div>
+    {% render_bundle 'custom' %}
+</body>
+
+</html>

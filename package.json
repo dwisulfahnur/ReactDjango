@@ -1,0 +1,23 @@
+{
+  "name": "ReactDjango",
+  "version": "1.0.0",
+  "description": "This is my simple research to implement ReactJS in to Django Project",
+  "main": "index.js",
+  "author": "dwisulfahnur <dwisulfahnur@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/dwisulfahnur/ReactDjango",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "7",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3",
+    "webpack": "^4.29.6",
+    "webpack-bundle-tracker": "^0.4.2-beta"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.2.3"
+  }
+}
